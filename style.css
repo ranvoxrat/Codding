@@ -1,0 +1,17 @@
+<style> 
+input[type=text] {
+  width: 25%;
+  padding: 10px 20px;
+  margin: 5px 0;
+ border: 1px solid black; 
+}
+input[type=submit] {
+  width: 10%;
+  padding: 12px 20px;
+border: 1px solid #555;
+ background-color: green;
+ color:white;
+    
+}
+]
+</style>
